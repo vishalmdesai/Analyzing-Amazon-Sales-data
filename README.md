@@ -4,9 +4,8 @@ Sales management has gained importance to meet increasing competition and the ne
 Domain : E-Commerce <br>
 
 #### 🤖 Data-driven-decision-making is the key to SUCCESS. With this Dashboard, we can monitor our performance, bussiness trends and make valuable bussiness decisions. <br>
-#### 🧑‍💻 Take a look at the Poer Bi Report and feel free to explore, provide feedback or contribute to its development your insights are invaluable.
-<br>
-## 📊 Power Bi Dashboard
+#### 🧑‍💻 Take a look at the Poer Bi Report and feel free to explore, provide feedback or contribute to its development your insights are invaluable. <br>
+## 📊 Power Bi Dashboard <br >
 ![Amazon_dashboard](https://github.com/vishalmdesai/Analyzing-Amazon-Sales-data/assets/153223711/ac5b66b5-c9f9-4000-a606-c1b6c723b50d)
 <br><br>
 #### ⁉️ What You'll find here :  <br>
