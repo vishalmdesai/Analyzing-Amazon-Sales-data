@@ -7,7 +7,7 @@ Domain : E-Commerce <br>
 ![Amazon_dashboard](https://github.com/vishalmdesai/Analyzing-Amazon-Sales-data/assets/153223711/ac5b66b5-c9f9-4000-a606-c1b6c723b50d)
 <br><br>
 #### ⁉️ What You'll find here :
-<br><br>
+<br>
 #### 📋Data Source : The mining data set is use to create a Intractive Dashboard and report for better understanding.
-<br><br>
+<br>
 #### 📊 Power Bi Dashboard : The heart of our project to providing insights into our Amazon-Sales,Customer Behavior and yearly Country growth trends.
